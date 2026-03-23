@@ -9,13 +9,13 @@
               "type": "AMAZON.SearchQuery"
             }
           ],
-          "name": "OpenAIIntent",
+          "name": "JarvisIntent",
           "samples": [
             "cuál es tu {pregunta}",
             "dime sobre {pregunta}",
             "puedes responder {pregunta}",
             "qué sabes sobre {pregunta}",
-            "murdo {pregunta}"
+            "jarvis {pregunta}"
           ]
         },
         {
@@ -36,7 +36,7 @@
         }
       ],
       "types": [],
-      "invocationName": "don murdo"
+      "invocationName": "jarvis"
     }
   }
 }
